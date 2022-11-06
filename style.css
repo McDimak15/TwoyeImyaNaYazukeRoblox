@@ -1,0 +1,84 @@
+body {
+	background-color: #f5f04c;
+}
+.Imya {
+	position: relative;
+	left: 350px;
+	font-size: 40px;
+	padding: 10px;
+	line-height: 0.5;
+	width: 450px;
+	top: -500px;
+}
+.RobloxSkin {
+	width: 555px;
+	position: relative;
+	right: 125px;
+}
+.Text1 {
+	font-size: 24px;
+	position: relative;
+	top: -500px;
+	color: #a1a09d;
+}
+.input1 {
+	height: 20px;
+	width: 200px;
+	position: relative;
+	top: -540px;
+	left: 250px;
+	color: #a1a09d;
+}
+.Text2 {
+	font-size: 24px;
+	position: relative;
+	top: -540px;
+	color: #a1a09d;
+}
+.input2 {
+	height: 20px;
+	width: 50px;
+	position: relative;
+	top: -580px;
+	left: 250px;
+	color: #a1a09d;
+}
+.Text3 {
+	font-size: 24px;
+	position: relative;
+	top: -580px;
+	color: #a1a09d;
+}
+.input3 {
+	height: 20px;
+	width: 200px;
+	position: relative;
+	top: -620px;
+	left: 250px;
+	color: #a1a09d;
+}
+.Text4 {
+	font-size: 24px;
+	position: relative;
+	top: -615px;
+	color: #a1a09d;
+}
+.input4 {
+	height: 20px;
+	width: 50px;
+	position: relative;
+	top: -670px;
+	left: 250px;
+	color: #a1a09d;
+}
+.Login {
+	position: relative;
+	top: -605px;
+	right: 40px;
+	width: 250px;
+	height: 50px;
+}
+.YouAre {
+	position: relative;
+	top: -605px;
+}
